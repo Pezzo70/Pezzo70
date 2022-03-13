@@ -1,6 +1,7 @@
 <h1>Hello World!</h1>
 <h3>&emsp;Meu nome é Gabriel Pezzo(18 anos), sou técnico desenvolvimento de sistemas pela Etec de Praia Grande, estagio avançado em Inglês e atualmente cursando Sistemas de Informação na <a href="https://www.unisanta.br">Unisanta</a> no segundo ano, e este é meu Github!</h3>
 
+
  <h3 align="center">Linguagens e ferramentas que eu uso: </h3>
 <p align="center">
   
@@ -93,6 +94,6 @@
             width="40" height="40" 
             /> 
         </a>
-
-
 </p>
+<p align="center"><img  src="https://media.giphy.com/media/iigcSmBaMUC5FoSUlu/giphy.gif" alt="Cat"  width="200"/></>
+
