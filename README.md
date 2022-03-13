@@ -1,5 +1,5 @@
 <h1>Hello World!</h1>
-<h3>&emsp;Meu nome é Gabriel Pezzo(18 anos), sou técnico desenvolvimento de sistemas pela Etec de Praia Grande, estagio avançado em Inglês e atualmente cursando o segundo ano de  Sistemas de Informação na <a href="https://www.unisanta.br">Unisanta</a>, e este é meu Github!</h3>
+<h3>&emsp;Meu nome é Gabriel Pezzo(18 anos), sou técnico em desenvolvimento de sistemas pela Etec de Praia Grande, estagio avançado em Inglês e atualmente cursando o segundo ano de  Sistemas de Informação na <a href="https://www.unisanta.br">Unisanta</a>, e este é meu Github!</h3>
 
 
  <h3 align="center">Linguagens e ferramentas que eu uso: </h3>
@@ -96,8 +96,8 @@
         </a>
 </p>
 <div>
-<img height = "200px" src="https://github-readme-stats.vercel.app/api?username=Pezzo70&show_icons=true&theme=radical"></>
-<img height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pezzo70&show_icons=true&theme=radical"></>
+<img height = "150px" src="https://github-readme-stats.vercel.app/api?username=Pezzo70&show_icons=true&theme=radical"></>
+<img height = "150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pezzo70&show_icons=true&theme=radical"></>
 </div>
 <p align="center"><img height = "300px" width="300px" src="https://github.com/Pezzo70/Pezzo70/blob/main/Working-Work-From-Home-GIF-by--unscreen.gif" alt="Cat"  width="200"/></>
 
