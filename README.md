@@ -95,5 +95,5 @@
             /> 
         </a>
 </p>
-<p align="center"><img  src="https://media.giphy.com/media/iigcSmBaMUC5FoSUlu/giphy.gif" alt="Cat"  width="200"/></>
+<p align="center"><img  src="https://github.com/Pezzo70/Pezzo70/blob/main/Working-Work-From-Home-GIF-by--unscreen.gif" alt="Cat"  width="200"/></>
 
