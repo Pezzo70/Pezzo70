@@ -1,5 +1,5 @@
 <h1>Hello World!</h1>
-<h3>Meu nome é Gabriel Pezzo e estou atualmente cursando Sistemas de Informação na Unisanta, tenho 18 anos e este é meu Github! Tenho fome em fortalecer meu conhecimento em programação e também minhas soft skills!</h3>
+<h3>&emsp;Meu nome é Gabriel Pezzo(18 anos), sou técnico desenvolvimento de sistemas pela Etec de Praia Grande, estagio avançado em Inglês e atualmente cursando Sistemas de Informação na <a href="https://www.unisanta.br">Unisanta</a> no segundo ano, e este é meu Github!</h3>
 
  <h3 align="center">Linguagens e ferramentas que eu uso: </h3>
 <p align="center">
