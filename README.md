@@ -96,8 +96,8 @@
         </a>
 </p>
 <div>
-<img height = "150px" src="https://github-readme-stats.vercel.app/api?username=Pezzo70&show_icons=true&theme=radical"></>
-<img height = "150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pezzo70&show_icons=true&theme=radical"></>
+<img height = "200px" src="https://github-readme-stats.vercel.app/api?username=Pezzo70&show_icons=true&theme=radical"></>
+<img height = "250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pezzo70&show_icons=true&theme=radical"></>
 </div>
-<p align="center"><img height = "300px" width="300px" src="https://github.com/Pezzo70/Pezzo70/blob/main/Working-Work-From-Home-GIF-by--unscreen.gif" alt="Cat"  width="200"/></>
+<p align="center"><img height = "300px" width="" src="https://github.com/Pezzo70/Pezzo70/blob/main/Working-Work-From-Home-GIF-by--unscreen.gif" alt="Cat"  width="200"/></>
 
